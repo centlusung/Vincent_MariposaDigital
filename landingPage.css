@@ -11,7 +11,7 @@
     height: 100vh;
     display: flex;
     flex-direction: column;
-    background-image: url(./RESOURCES/imgFiles/Landing-Page/Landing-Homepage\ Ricefield.png);
+    background-image: url('C:\Vincent_MariposaDigital\RESOURCES\RESOURCES\imgFiles\Landing-Page\Landing-Homepage Ricefield.png');
     background-size: cover;
 }
 
